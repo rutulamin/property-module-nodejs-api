@@ -1,0 +1,18 @@
+{
+    "ERR_GENRIC_SYNTAX": "JSON request could not be parsed.",
+    "ERR_URL_NOT_FOUND": "Requested URL not found!",
+    "ERR_INTERNAL_SERVER": "Internal Server Error.",
+    "INVALID_VALUE": "Invalid value",
+    "PROPERTY_NAME_REQUIRED": "Name is repuired",
+    "PROPERTY_DESCRIPTION_REQUIRED": "Description is repuired",
+    "PROPERTY_ADDRESS_REQUIRED": "Address is repuired",
+    "PROPERTY_LOCALITY_REQUIRED": "Locality is repuired",
+    "PROPERTY_PRICE_REQUIRED": "Price is repuired",
+    "PROPERTY_BEDROOM_REQUIRED": "No of bedroom is repuired",
+    "PROPERTY_BATHROOM_REQUIRED": "No of bathroom is repuired",
+    "PROPERTY_CARPET_AREA_TYPE_REQUIRED": "Carpet area type is repuired",
+    "PROPERTY_CARPET_AREA_REQUIRED": "Carpet area is repuired",
+    "PROPERTY_ADD_SUCCESS": "Property added successfully",
+    "NO_CONTENT": "No data found",
+    "PROPERTY_NOT_EXIST": "Property not exist"
+}
